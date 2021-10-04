@@ -1,0 +1,39 @@
+		<--CONCEITOS-->
+
+1 - ESTÓRIAS VS TAREFAS;
+
+Exemplo Bicicleta;
+
+O objetivo do projeto é a bicicleta, quando todos o 
+épicos tiverem sido construídos o projeto estará 
+pronto.
+
+Ela é um conjunto dos épicos, quadro, grafo, celim, 
+rodas, sistema de freios e sistema de tração.
+
+O épico garfo consiste nas estórias guidão, 
+amortecedores.
+
+Pedais é uma estória do épico sistema de tração 
+e a manopla de freios é uma estória do sistema 
+de freios.
+
+Uma estória são um conjunto de tarefas e os épicos 
+são um conjunto de estórias.
+
+A estória deve ser descrita em nível de negócio e 
+serve para que o time de desenvolvimento entenda 
+o objetivo daquela atividade, o que deve ser feito
+e como será usado, pra desenvolver com mais acerti
+vidade, aumentando a velocidade da entrega e o 
+retorno
+
+		<--PERGUNTAS-->
+
+1 - Qual característica melhor descreve uma estória?
+Resp - Uma tarefa descrita em nível de negócio.
+
+2 -  O que é uma tarefa?
+Resp - Um conjunto de atividades que o time de 
+desenvolvimento deve desempenhar para entregar
+a estória.

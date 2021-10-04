@@ -1,0 +1,44 @@
+		<--SCRUM--2>
+
+	<--PAPÉIS E RESPONSABILIDADES-->
+
+		* PRODUCT OWNER (PO);
+
+Representante da área de negócio.
+Defime as funcionalidades do software.
+Prioriza as funcionalidades de acordo com o valor do negócio.
+Garante que o time de desenvolvimento entenda os itens do backlog
+no nível necessário.
+
+		* SCRUM MASTER (SM);
+
+Garante o uso correto do SCRUM.
+SM não é o gerente de projetos.
+Age como facilitador.
+Auxilia o PO no planejamento e estimativas do
+backlog;
+Auxilia a equipe a remover impedimentos;
+Treina o tima em autogerenciamento e 
+interdisciplinaridade.
+
+	* TIME DE DESENVOLVIMENTO (DEV);
+
+Possui habilidades sufucientes para desenvolver, testar, criar e
+desenhar, ou seja, tudo que for necessário para entregar
+o software funcionando.
+
+		<--PERGUNTAS-->
+
+1 - Quem é o responsável por priorizar o backlog?
+Resp - (PO) - Product owner.
+
+2 - Quem é o responsável por garantir que o time utilize
+da melhor forma o SCRUM?
+Resp = (SM) - SCRUM MASTER
+
+3 - Quem é o responsável por desenhar, construir e entregar
+o software funcionando?
+Resp - Time Dev
+
+
+

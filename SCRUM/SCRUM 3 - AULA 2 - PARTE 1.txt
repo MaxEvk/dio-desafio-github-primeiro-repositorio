@@ -1,0 +1,110 @@
+			<--RITOS-->
+
+		Daily e retrospectiva
+
+DAILY - Cerimônia diária com o Time dev dentro da 
+Sprint, focada nas tarefas do dia a dia. Presença
+do PO não obrigatória.
+15 MIN
+
+	3 - perguntas
+1 - O que eu fiz ontem? 
+2 - O que eu farei hoje?
+3 - Se possuo algum impedimento?
+
+RETROSPECTIVA - Cerimônia final da Sprint com o PO e 
+time dev, focada na Sprint toda. É discutido o que 
+deve melhorar, e o que se pode fazer na px Sprint.
+
+		<--PERGUNTAS-->
+
+1 - Quem tem participação obrigatória na Daily?
+Resp - O time de desenvolvimento apenas.
+
+2 - Quem tem participação obrigatória na retro?
+Resp - O time dev e o Scrum Master.
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

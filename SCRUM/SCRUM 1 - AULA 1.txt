@@ -1,0 +1,76 @@
+1 - Desafios do desenvolvimento de software
+
+processo de desenvolvimento
+
+* concepção
+* Análise & Design
+* Desenvolvimento
+* Testes
+* Implantação
+
+OBS: Quando o software é entregue ao cliente, 
+apenas 20% dele é utilizado.
+
+TRADICIONAL X ÁGIL
+
+1 - Tradicional	(Waterfall). Risco de descubrir erros tardios
+				
+Só permite q o projeto avance
+quando uma fase está inteira-
+mente completa.			
+
+* Requisitos.
+* Design.
+* Implementação.
+* Verification.
+* Maintenance.
+
+2 - Ágil. Descobre que estava errado em no máximo 30 dias.
+Ser ágil é ter a capacidade de responder rapidamente a mudanças.
+
+Software construído por partes(incremental) e cada parte ,
+executa-se em ciclo;
+Escopo definido ao longo do projeto;
+projeto é controlado por funcionalidades entregues;
+cliente pode ver parte do software funcionando na parte inicial
+do projeto;
+Mudanças constantes, pelos feedbacks contínuos.
+
+* Requisitos.
+* análise.
+* Construção.
+* Testes.
+* Liberação..
+
+SCRUM
+
+Pilares do SCRUM framework
+
+Transparência, adaptação e inspeção
+
+Conversar mais e escrever menos;
+Demonstrar constantemente o software ao cliente e obter feedbacks
+constantes;
+Requisitos mudam frequentemente;
+Aprender progressivamente o uso software.
+
+CARACTERÍSTICAS DO TIME SCRUM
+
+Equipes capazes de se auto-organizarem;
+As tarefas são do time e todos são responsáveis;
+Forte comprometimento com os resultados.
+
+MVP - Minimun Viable Product
+
+<--PERGUNTAS-->
+
+1 - Qual é a característica de um projeto ágil?
+Resp: Escopo definido ao longo do projeto.
+
+2 - Quais são os pilares do SCRUM?
+Resp: Transparência, adaptação e inspeção;
+
+
+
+
+

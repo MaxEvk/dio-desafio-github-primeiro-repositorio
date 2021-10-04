@@ -1,0 +1,33 @@
+	PAPEIS E RESPONSABILIDADES DO (PO)
+
+		PRODUCT OWNER
+
+O PO representa o profissional que tem a visão
+do que será desenvolvido, as necessidades a serem
+atendidas, o público que vai utilizar os serviços
+a serem alcançados.
+
+		RELEASE PLANNING
+
+Liberação ou lançamento de software é p lançamento 
+de nova versão oficial de produto de software.
+Cada vez q um produto de software é criado ou
+modificado, o fabricante e seus desenvolvedores 
+decidem sobre como distribuir ou o novo produto
+ou a modificação para as pessoas que utilizam.
+
+Existem dois tipos de release panning;
+
+* RP de múltiplas Squads.
+* RP de projeto.
+
+		<--PERGUNTAS-->
+
+1 - Qual a característica melhor descreve uma
+atividade do PO?
+Resp - Entende a demanda e extrair o melhor valor
+possível.
+
+2 - Qual o papel do PO dentro do time?
+Resp - Ajuda o time a entender a demanda e tira
+as dúvidas ao longo da Sprint.

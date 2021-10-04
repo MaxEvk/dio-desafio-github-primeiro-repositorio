@@ -1,0 +1,14 @@
+  	RELACIONAMENTOS COM CLIENTES/STAKEHOLDER
+
+  O stakeholder é uma pessoa ou um grupo que legitima 
+as ações de uma organização e que tem um papel direto 
+ou indireto na gestão e resultados dessa mesma 
+organização. Desta forma, um stakeholder pode ser 
+afetado positivamente ou negativamente, dependendo 
+das suas politicas e forma de atuação.
+
+  Alguns exemplos de stakeholder de uma empresa podem
+ser os seus funcionários, gestores, sindicatos e
+diversas outras pessoas ou empresas que estejam
+relacionadas com uma determinada ação ou projeto.
+

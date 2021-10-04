@@ -1,0 +1,33 @@
+CRITÉRIOS DE ACEITE, ESTIMATIVA E PLANEJAMENTO DE TAREFAS
+
+	O QUE É UM CRITÉRIO DE ACEITE?
+
+ É uma lista de critérios que precisam ser alcanlados
+para que a User Story atenda os requisitos do usuário 
+e seja aceita pelo PO.
+
+ Os critérios de aceitação têm o objetivo de: definir 
+limites para user stories. Ajudar o P.O. a detalhar
+em alto nível o que é necessário para entregar valor
+ao cliente.
+
+	ESTIMATIVA E PLANEJAMENTO
+
+ Planning poker - Método mais usado para tamanhos de 
+tarefas em times ágeis, sequência fibonacci. 
+
+		PLANEJAMENTO
+
+  Mapear estórias e atividades descritas, PO valida
+qual dos itens é mais prioritário e o objetivo 
+principal da Sprint.
+
+		<--PERGUNTAS--> 
+1 - O que é um critério de aceite?
+Resp - É uma lista de critérios para que a estória 
+atenda aos requisitos do cliente.
+
+2 - O que é planning Poker?
+Resp - Uma atividade de mensuração do esforço e
+complexidade que pode ser tanto de tarefas com estó-
+rias.

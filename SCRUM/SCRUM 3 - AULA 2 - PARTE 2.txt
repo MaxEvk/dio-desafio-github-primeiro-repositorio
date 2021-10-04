@@ -1,0 +1,24 @@
+		<--REFINAMENTO--> 
+
+Cerimônia n oficial do SCRUM, com a finalidade de 
+aumentar o entendimento da demanda por parte do time
+e melhorar a qualidade da entrega e o retorno do pro-
+jeto. Facilitando a planning. 
+
+		<--REVIEW-->
+
+ Quem apresenta é o time dev, apresentar o trabalho
+que cada um desenvolveu na Sprint anterior e tirar
+qualquer dúvida técnica que o público presente tenha
+em relação a solução. Tem a participação de todos
+Time Dev, SM e PO. Nesta serimônia tem a presença dos
+Stakholders, demanadantes diretos, lideres técnicos.
+
+		<--PERGUNTAS-->
+
+1 - EM QUE MOMENTO ACONTECE O REFINAMENTO?
+Resp - O refinamento acontece um passo antes da 
+Planning.
+
+2 - Qual o principal objetico da review?
+Resp - Verificar se a demanda agrega valor ao negócio.

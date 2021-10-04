@@ -1,0 +1,60 @@
+ANALISANDO O ESCOPO E DEFININDO PRIORIDADES
+
+	DEFININDO ESCOPO E PRIORIDADE
+
+		PRODUCT BACKLOG
+
+O product backlog é composto por épicos e estórias 
+
+ÉPICOS = Incremento sem muito detalhamento, 
+ajuda a te direcionar dos caminhos que deve
+seguir.
+
+ESTÓRIA = Detalhamento dos épicos, um épico 
+normalmente se dividem várias estórias, onde
+ficam descritos o que deve acontecer e suas
+regras de negócio.
+
+	Como escrever uma estória;
+
+* Nome da Estória;
+* Descrição da Estória (Eu, Como, Quero, Quando);
+* Regras de negócio (Separar regras de Front-End
+de regras de back-end);
+* Tela (Link ou imagem das telas a serem
+desenvolvidas);
+* KPI (Quais os objetivos/valor a estória precisa
+atingir);
+* Tagueamento (Como a estória será "Tagueada" para poder
+mensurar os KPI);
+* Critérios de Aceite (Qual o passo a passo de
+todos os caminhos felizes possíveis a estória
+deve cumprir para que ela seja considerada aceita);
+
+		RISCOS POSITIVOS
+
+* Positivos = Muito ignorado nos projetos, porem um
+dos fatores de maiores ganhos no desenvolvimento
+de sistemas.
+
+* Negativos = Itens que podem afetar o prazo, custo
+ou escopo de maneira que pode acabar inviabilizando-o.
+
+
+			PERGUNTAS
+
+1 - Qual método é mais indicado para definir o escopo
+do projeto?
+Resp - Entender o ganho e depois definir o escopo do 
+projeto.
+
+2 - O que compõe um product backlog?
+Resp - Épico e estória
+
+3 - Qual a importância de mapear riscos positivos?
+Resp - Poder priorizar outros itens do backlog.
+
+
+
+
+

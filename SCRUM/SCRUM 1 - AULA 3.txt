@@ -1,0 +1,67 @@
+		<--Time Box-->
+
+Tempo máximo para fazer uma cerimônia ou sprint.
+
+* Cerimônias do SCRUM
+
+Sprint = Corrida, arrancada;
+
+É o principal evento do SCRUM;
+
+Duração de 1 Sprint:
+ * 30 dias corridos (ou menos) definidos pelo 
+time.
+
+	COMPOSIÇÃO DE UMA SPRINT:
+
+1 Planejamento da Sprint;
+2 Reuniões diárias (Daily Meeting);
+3 Revisão da Sprint (Review);
+4 Retrospectiva da Sprint.
+
+	PLANEJAMENTO DA SPRINT
+
+	* Quem participa?
+
+PO, Time Dev e o SM;
+
+Essa reunião leva mais ou menos 8 horas;
+PO eXplica o que precisa fazer para o time, 
+funcionalides e etc...Time de devs quebra as 
+atividades, e definem como fazer.
+
+Podem utilizar planning poker para saber a 
+estimativa de tempo para cada tarefa.
+
+	<--Reuniões diárias (Daily Meeting)-->
+
+Participantes, time dev, SM e PO;
+O time desemvolvimento responde a 3 perguntas;
+O que foi feito no dia anterior?
+O que está programada no dia?
+E se ele tem algum impedimento.
+Essa reunião é conhecida com standUp meeting, 
+porque é feita em pé. Dura 15 min.
+Atualizam o quadro de atividades;
+	
+		<--Review-->
+
+No ultimo dia da Sprint ocorre uma reunião 
+de 4 horas para uma Sprint de 30 dias
+Time DEV apresenta para o PO o trabalho feito;
+Se for aceito o trabalho estara em desenvolvimento.
+
+	<--Retrospectiva da Sprint-->
+
+Ocorre no último dia; Objetivo de melhorar o time
+fazer lições aprendidas, pra que na px Sprint não 
+ocorra mais nenhum problema;
+Reunião para lições aprendidadas pelo time DEV;
+participam dessa reunião o time de devs, 
+PO ou SM;
+Apontar os erros que a equipe teve;
+Reunião com o tempo de 3 horas para uma 
+Sprint de 30 dias.
+
+
+

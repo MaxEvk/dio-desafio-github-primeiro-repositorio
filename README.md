@@ -9,3 +9,5 @@ Repositório criado para o Desafio de Projeto
 
 - Markdown
 - SCRUM - Metodológia Ágil
+- HTML5 / CSS3
+-

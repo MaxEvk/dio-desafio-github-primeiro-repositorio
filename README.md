@@ -12,5 +12,6 @@ Repositório criado para o Desafio de Projeto
 [CSS3 Guia](https://www.devmedia.com.br/guia/css/38149)
 - Markdown
 - SCRUM - Metodológia Ágil
-- HTML5 / CSS3
--
+- HTML5 
+- CSS3
+

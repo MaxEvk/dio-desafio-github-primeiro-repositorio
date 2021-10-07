@@ -10,8 +10,11 @@ Repositório criado para o Desafio de Projeto
 [HTML Guia](https://www.devmedia.com.br/guia/html/38051)
 
 [CSS3 Guia](https://www.devmedia.com.br/guia/css/38149)
+
+[JavaScript ES6 essencial](https://www.javascripttutorial.net/es6/)
 - Markdown
 - SCRUM - Metodológia Ágil
 - HTML5 
 - CSS3
+- JavaScript ES6 essencial
 
